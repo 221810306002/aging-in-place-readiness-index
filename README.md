@@ -6,7 +6,7 @@ social infrastructure, economic security, physical safety, digital
 access, food security, and caregiver proximity into a single 0–100
 composite score — and identifies which counties are at greatest risk.
 
-> Built as a weekend-scale portfolio project showcasing SQL, Python,
+> Built as a portfolio project showcasing SQL, Python,
 > scikit-learn, and Tableau/Power BI skills on a socially meaningful
 > healthcare problem.
 
@@ -86,7 +86,6 @@ End-to-end runtime on a laptop: **~6 seconds**.
 ```
 aging-in-place-readiness-index/
 ├── README.md
-├── requirements.txt
 ├── LICENSE
 ├── .gitignore
 ├── data/
@@ -103,12 +102,9 @@ aging-in-place-readiness-index/
 │   ├── model.py                 ← K-means + logistic regression
 │   └── build_dashboard.py
 ├── dashboard/
-│   ├── dashboard.html           ← self-contained Plotly dashboard
-│   └── BUILD_GUIDE.md           ← Tableau + Power BI recipes
-└── docs/
-    ├── Aging_in_Place_Project_Proposal.docx
-    ├── Executive_Brief.md
-    └── resume_bullets.md
+ ├── dashboard.html           ← self-contained Plotly dashboard
+ └── BUILD_GUIDE.md           ← Tableau + Power BI recipes
+
 ```
 
 ## Key findings from the sample dataset
