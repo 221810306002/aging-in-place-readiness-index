@@ -1,0 +1,8 @@
+feature,coef_standardized,odds_ratio
+clinical_access_score,-3.02,0.049
+physical_safety_score,-2.338,0.097
+social_infrastructure_score,-1.917,0.147
+economic_security_score,-1.875,0.153
+caregiver_proximity_score,-1.776,0.169
+digital_access_score,-1.774,0.17
+food_security_score,-1.445,0.236
