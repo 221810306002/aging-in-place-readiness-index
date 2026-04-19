@@ -211,7 +211,7 @@ def build():
 <header>
   <div class="eyebrow">Data Analyst Portfolio Project</div>
   <h1>Aging-in-Place Readiness Index</h1>
-  <p>A county-level view of whether older adults in the United States can reasonably live independently \u2014 combining clinical supply, social infrastructure, economic security, physical safety, digital access, food security, and caregiver proximity into a single 0\u2013100 score.</p>
+  <p>A county-level view of whether older adults in the United States can reasonably live independently combining clinical supply, social infrastructure, economic security, physical safety, digital access, food security, and caregiver proximity into a single 0\u2013100 score.</p>
 </header>
 <main>
   <div class="note"><strong>Demo note.</strong> This dashboard is built on 500 synthetic counties that preserve realistic distributions and relationships. Swap <code>data/sample/county_sample.csv</code> for real ingested data (see <code>src/ingest.py</code>) to produce the production version.</div>
